@@ -13,6 +13,7 @@
 		731B3CE028B8E5E3004A41A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 731B3CDE28B8E5E3004A41A4 /* Main.storyboard */; };
 		731B3CE228B8E5E4004A41A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 731B3CE128B8E5E4004A41A4 /* Assets.xcassets */; };
 		731B3CE528B8E5E4004A41A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 731B3CE328B8E5E4004A41A4 /* LaunchScreen.storyboard */; };
+		731B3CED28B8E752004A41A4 /* DIC_Swatch_ReadMe.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 731B3CEC28B8E751004A41A4 /* DIC_Swatch_ReadMe.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		731B3CE128B8E5E4004A41A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		731B3CE428B8E5E4004A41A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		731B3CE628B8E5E4004A41A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		731B3CEC28B8E751004A41A4 /* DIC_Swatch_ReadMe.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = DIC_Swatch_ReadMe.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				731B3CE128B8E5E4004A41A4 /* Assets.xcassets */,
 				731B3CE328B8E5E4004A41A4 /* LaunchScreen.storyboard */,
 				731B3CE628B8E5E4004A41A4 /* Info.plist */,
+				731B3CEC28B8E751004A41A4 /* DIC_Swatch_ReadMe.pdf */,
 			);
 			path = Introduction_PDFKit;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 				731B3CE528B8E5E4004A41A4 /* LaunchScreen.storyboard in Resources */,
 				731B3CE228B8E5E4004A41A4 /* Assets.xcassets in Resources */,
 				731B3CE028B8E5E3004A41A4 /* Main.storyboard in Resources */,
+				731B3CED28B8E752004A41A4 /* DIC_Swatch_ReadMe.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
